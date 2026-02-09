@@ -97,7 +97,7 @@ _Under review_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #8B0000;">ICLR 2026 Oral</div><img src='images/llm_dna.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Oral</div><img src='images/llm_dna.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LLM DNA: Tracing Model Evolution via Functional Representations**
