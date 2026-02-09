@@ -38,6 +38,7 @@ My research interests include LLMs, agentic systems, privacy and safety, and eff
 </p>
 
 # 🔥 News
+- *2026.02*: &nbsp; <a href="https://arxiv.org/abs/2509.24496">LLM DNA</a> is selected as ICLR 2026 <span style="color: #8B0000;">Oral</span> (Top 1%)!
 - *2026.01*：&nbsp; <a href="https://arxiv.org/abs/2505.12225">SWIFT</a> is featured by <a href="https://mp.weixin.qq.com/s/ka5bndnjGxux3qyOnz6Yeg">AI Era (新智元)</a>.
 - *2026.01*: &nbsp; <a href="https://arxiv.org/abs/2510.06186">RECODE-H</a> and <a href="https://arxiv.org/abs/2509.24496">LLM DNA</a> are accepted to ICLR 2026! 🎉
 - *2026.01*: &nbsp; _Self-Supervised EEG-based Emotion Recognition_ is accepted to ICASSP 2026! 🎉
@@ -96,6 +97,20 @@ _Under review_
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge" style="background-color: #8B0000;">ICLR 2026 Oral</div><img src='images/llm_dna.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LLM DNA: Tracing Model Evolution via Functional Representations**
+
+Zhaomin Wu, Haodong Zhao, Ziyang Wang, **Jizhou Guo**, Qian Wang, Bingsheng He
+
+_ICLR 2026 <span style="color: #8B0000;">Oral</span> (Top 1%)_
+
+[[arXiv]](https://arxiv.org/abs/2509.24496)
+
+<small>Introduced LLM DNA, a mathematically grounded, low-dimensional functional representation for LLMs. We developed RepTrace, a training-free pipeline that extracts DNA signatures to trace the evolutionary lineage of 305+ models.</small>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/internal_consistency.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
