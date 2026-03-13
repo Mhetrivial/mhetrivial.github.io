@@ -38,6 +38,7 @@ My research interests include LLMs, agentic systems, privacy and safety, and eff
 </p>
 
 # 🔥 News
+- *2026.03*: &nbsp; _Self-Supervised EEG-based Emotion Recognition_ is selected as ICASSP 2026 <span style="color: #8B0000;">Oral</span>!
 - *2026.02*: &nbsp; <a href="https://arxiv.org/abs/2509.24496">LLM DNA</a> is selected as ICLR 2026 <span style="color: #8B0000;">Oral</span> (Top 1%)!
 - *2026.01*：&nbsp; <a href="https://arxiv.org/abs/2505.12225">SWIFT</a> is featured by <a href="https://mp.weixin.qq.com/s/ka5bndnjGxux3qyOnz6Yeg">AI Era (新智元)</a>.
 - *2026.01*: &nbsp; <a href="https://arxiv.org/abs/2510.06186">RECODE-H</a> and <a href="https://arxiv.org/abs/2509.24496">LLM DNA</a> are accepted to ICLR 2026! 🎉
