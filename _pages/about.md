@@ -39,10 +39,6 @@ My future research will primarily focus on Scientific Machine Learning (SciML) a
 
 
 
-# 🌍 Services
-
-Invited as reviewer: [ICLR 2026](https://iclr.cc/Conferences/2026), [EMBC 2025](https://embc.embs.org/2025/), [AI4MATH @ ICML 2025](https://sites.google.com/view/ai4mathworkshopicml2025)
-
 <style>
 .experience-box {
   display: flex;
