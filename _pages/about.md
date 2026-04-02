@@ -90,7 +90,7 @@ Advisor: [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/)
 
 <div class="experience-box">
   <div class="experience-image">
-    <img src="images/nus_logo.jpeg" alt="NUS logo">
+    <img src="images/KTH_logo.png" alt="KTH logo">
   </div>
   <div class="experience-text" markdown="1">
 
@@ -105,7 +105,7 @@ Advisor: [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
 
 <div class="experience-box">
   <div class="experience-image">
-    <img src="images/CAS_logo.png" alt="PKU logo">
+    <img src="images/CAS_logo.png" alt="CAS logo">
   </div>
   <div class="experience-text" markdown="1">
 
@@ -121,7 +121,7 @@ Summer Research Intern
 
 <div class="experience-box">
   <div class="experience-image">
-    <img src="images/sjtu_logo.jpeg" alt="Tencent logo">
+    <img src="images/sjtu_logo.jpeg" alt="SJTU logo">
   </div>
   <div class="experience-text" markdown="1">
 
