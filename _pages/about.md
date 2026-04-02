@@ -124,20 +124,7 @@ Quantitative Biology Summer School of [Center for Life Sciences](http://www.cls.
   </div>
   <div class="experience-text" markdown="1">
 
-### Tencent Corporation
 
-2022.08  
-Research Intern  
-Spark Project (AI group) (50 high-school students with talents nationwide)
-
-  </div>
-</div>
-
-<div class="experience-box">
-  <div class="experience-image">
-    <img src="images/sjtu_logo.jpeg" alt="SJTU logo">
-  </div>
-  <div class="experience-text" markdown="1">
 
 ### Shanghai Jiao Tong University
 
