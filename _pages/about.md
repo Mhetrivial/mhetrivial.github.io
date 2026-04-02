@@ -23,7 +23,7 @@ Most recently, I have been conducting research on Scientific Machine Learning an
 Before that, I was advised by <a href="https://yucaoyc.github.io/">Prof. Yu Cao</a> during my undergraduate studies at SJTU. I also had the privilege of conducting research under the guidance of <a href="https://lsec.cc.ac.cn/~hhxie/">Prof. Hehu Xie</a> at the Chinese Academy of Sciences (CAS).
 
 
-My research interests include LLMs, agentic systems, privacy and safety, and efficient ML. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
+My future research will primarily focus on Scientific Machine Learning (SciML) and AI for Science (AI4S). To further broaden my technical skill set and research vision, I am also actively exploring Quantitative Finance and Reinforcement Learning (RL). I am always open to insightful discussions and potential collaborations in these areas, so please feel free to reach out!
 
 <p style="text-align: center;">
 <a href="mailto:sjtu18640985163@sjtu.edu.cn">Email</a> / 
