@@ -36,7 +36,19 @@ My future research will primarily focus on Scientific Machine Learning (SciML) a
 - *2026.04*: &nbsp; 🎉 Our paper _Dynamically Optimal Unraveling Schemes for Simulating Lindblad Equations_ has been accepted to the **Journal of Physics A (J. Phys. A)**!
 - *2026.03*: &nbsp; 🎉 I am incredibly excited to announce that I have received the Ph.D. admission offer from the **National University of Singapore (NUS)**! 
 
+# 📝 Selected Publications 
+_<sup>*</sup> denotes equal contribution_
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/swift.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Mining Intrinsic Rewards from LLM Hidden States for Efficient Best-of-N Sampling**
+
+**Jizhou Guo**, Zhaomin Wu, Hanchen Yang, Philip S. Yu
+
+_KDD 2026_
+
+[[arXiv]](https://arxiv.org/abs/2505.12225) [[code]](https://github.com/aster2024/SWIFT) [[HF Daily]](https://huggingface.co/papers/2505.12225) [[AI Era (新智元)]](https://mp.weixin.qq.com/s/ka5bndnjGxux3qyOnz6Yeg)
 
 
 <style>
