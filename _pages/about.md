@@ -111,7 +111,7 @@ Advisor: [Prof. Hehu Xie](https://lsec.cc.ac.cn/~hhxie/)
 
 ### Chinese Academy of Sciences
 
-2024.07 - 2024.09 
+2024.07 - 2024.09  
 Research Assistant  
 Advisor: [Prof. Hehu Xie](https://lsec.cc.ac.cn/~hhxie/)
 
