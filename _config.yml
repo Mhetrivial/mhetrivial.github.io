@@ -6,52 +6,52 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jizhou Guo"
-description              : ""
-repository               : "aster2024/aster2024.github.io"
+title                    : "Mingfeng He"
+description              : "Personal Homepage of Mingfeng He"
+repository               : "Mhetrivial/mhe.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  "G-RR4BQTF5VS"
+google_analytics_id      :  ""
 
 # SEO Related
-google_site_verification :  "iQTO3xysht-3ocH8mZ79ASHbFlkWZ9XhkBWmL3ulDTA"
-bing_site_verification   :  "1C23BDA5A1A4819211001E15BE5C2D07"
+google_site_verification :  ""
+bing_site_verification   :  ""
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Jizhou Guo"
+  name             : "Mingfeng He"
   avatar           : "images/avatar.jpg"
   bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fcBDdsYAAAAJ"
-  email            : "sjtu18640985163@sjtu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jizhou-Guo"
-  uri              :
+  email            : "mhe41609@gmail.com"
+  researchgate     : ""
+  uri              : "https://mhe.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aster2024" # e.g., "github username"
+  github           : "Mhetrivial"# e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jizhou-guo-6971b6277" # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/378/4049.html"
-  orcid            : "https://orcid.org/0009-0001-0699-9164"
+  linkedin         : "" # e.g., "linkedin username"
+  dblp             : ""
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "TheOsmanthus"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
