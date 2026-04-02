@@ -37,8 +37,6 @@ My future research will primarily focus on Scientific Machine Learning (SciML) a
 - *2026.03*: &nbsp; 🎉 I am incredibly excited to announce that I have received the Ph.D. admission offer from the **National University of Singapore (NUS)**! 
 
 # 📝 Selected Publications 
-_<sup>*</sup> denotes equal contribution_
-
 
 **Mining Intrinsic Rewards from LLM Hidden States for Efficient Best-of-N Sampling**
 
@@ -46,7 +44,7 @@ _<sup>*</sup> denotes equal contribution_
 
 _KDD 2026_
 
-[[arXiv]](https://arxiv.org/abs/2505.12225) [[code]](https://github.com/aster2024/SWIFT) [[HF Daily]](https://huggingface.co/papers/2505.12225) [[AI Era (新智元)]](https://mp.weixin.qq.com/s/ka5bndnjGxux3qyOnz6Yeg)
+[[arXiv]](https://arxiv.org/abs/2505.12225) 
 
 
 <style>
