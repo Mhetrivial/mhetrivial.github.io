@@ -105,7 +105,7 @@ Advisor: [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
 
 <div class="experience-box">
   <div class="experience-image">
-    <img src="images/CAS_logo.jpeg" alt="PKU logo">
+    <img src="images/CAS_logo.png" alt="PKU logo">
   </div>
   <div class="experience-text" markdown="1">
 
