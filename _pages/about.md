@@ -38,11 +38,10 @@ My future research will primarily focus on Scientific Machine Learning (SciML) a
 
 # 📝 Selected Publications 
 
-**Dynamically Optimal Unraveling Schemes for Simulating Lindblad Equations**
-
-Yu Cao, **Mingfeng He**, Xiantao Li
-
+**Dynamically Optimal Unraveling Schemes for Simulating Lindblad Equations** Yu Cao, **Mingfeng He**, Xiantao Li *Journal of Physics A: Mathematical and Theoretical* (Accepted)  
 [[arXiv]](https://arxiv.org/abs/2509.19887)
+
+**Solving Schrodinger Equation Using Tensor Neural Network** Yangfei Liao, Zhongshuo Lin, Jianghao Liu, Qingyuan Sun, Yifan Wang, Teng Wu, Hehu Xie, **Mingfeng He** *Preprint* [[arXiv]](https://arxiv.org/abs/2209.12572)
 
 
 <style>
