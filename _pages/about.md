@@ -96,7 +96,7 @@ Advisor: [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/)
 
 ### KTH Royal Institute of Technology
 
-2025.01 - 2025.06
+2025.01 - 2025.06  
 Exchange Student
 
   </div>
