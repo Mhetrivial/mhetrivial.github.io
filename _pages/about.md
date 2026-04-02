@@ -120,7 +120,7 @@ Quantitative Biology Summer School of [Center for Life Sciences](http://www.cls.
 
 <div class="experience-box">
   <div class="experience-image">
-    <img src="images/tencent_logo.jpeg" alt="Tencent logo">
+    <img src="images/sjtu_logo.jpeg" alt="Tencent logo">
   </div>
   <div class="experience-text" markdown="1">
 
