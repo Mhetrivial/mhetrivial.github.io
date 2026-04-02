@@ -38,13 +38,11 @@ My future research will primarily focus on Scientific Machine Learning (SciML) a
 
 # 📝 Selected Publications 
 
-**Mining Intrinsic Rewards from LLM Hidden States for Efficient Best-of-N Sampling**
+**Dynamically Optimal Unraveling Schemes for Simulating Lindblad Equations**
 
-**Jizhou Guo**, Zhaomin Wu, Hanchen Yang, Philip S. Yu
+Yu Cao, **Mingfeng He**, Xiantao Li
 
-_KDD 2026_
-
-[[arXiv]](https://arxiv.org/abs/2505.12225) 
+[[arXiv]](https://arxiv.org/abs/2509.19887)
 
 
 <style>
