@@ -26,8 +26,7 @@ Before that, I was advised by <a href="https://yucaoyc.github.io/">Prof. Yu Cao<
 My future research will primarily focus on Scientific Machine Learning (SciML) and AI for Science (AI4S). To further broaden my technical skill set and research vision, I am also actively exploring Quantitative Finance and Reinforcement Learning (RL). I am always open to insightful discussions and potential collaborations in these areas, so please feel free to reach out!
 
 <p style="text-align: center;">
-<a href="mailto:sjtu18640985163@sjtu.edu.cn">Email</a> / 
-<a href="https://www.linkedin.com/in/jizhou-guo-6971b6277">LinkedIn</a> / 
+<a href="mailto:mhe41609@gmail.com">Email</a> / 
 <a href="images/wechat.jpg">WeChat</a> /
 <a href="images/qq.jpg">QQ</a> /
 <a href="images/xiaohongshu.jpg">Xiaohongshu (RedNote)</a> /
