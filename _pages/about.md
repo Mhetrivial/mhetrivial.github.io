@@ -79,7 +79,7 @@ My future research will primarily focus on Scientific Machine Learning (SciML) a
   </div>
   <div class="experience-text" markdown="1">
 
-### University of Illinois Chicago
+### The Chinese University of Hong Kong
 
 2025.06 - 2025.08  
 Research Assistant  
@@ -94,7 +94,7 @@ Advisor: [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/)
   </div>
   <div class="experience-text" markdown="1">
 
-### National University of Singapore
+### KTH Royal Institute of Technology
 
 2024.06 - 2024.08  
 Research Assistant  
@@ -109,7 +109,7 @@ Advisor: [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
   </div>
   <div class="experience-text" markdown="1">
 
-### Peking University
+### Chinese Academy of Sciences
 
 2023.07  
 Student Trainee  
