@@ -143,7 +143,7 @@ Spark Project (AI group) (50 high-school students with talents nationwide)
 
 2022.09 - Present  
 Bachelor of Science in Mathematics with <strong>Honors</strong>, [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/)  
-Research Advisors: [Prof. Shuai Li](https://shuaili8.github.io/), [Prof. Bao-Liang Lu](https://bcmi.sjtu.edu.cn/~blu/), and [Prof. Wei-Long Zheng](https://weilongzheng.github.io/)
+Research Advisors: [Prof. Yu Cao](https://yucaoyc.github.io/zh/)
 
   </div>
 </div>
