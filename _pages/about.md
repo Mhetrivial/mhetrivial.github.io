@@ -81,9 +81,9 @@ My future research will primarily focus on Scientific Machine Learning (SciML) a
 
 ### The Chinese University of Hong Kong
 
-2025.06 - 2025.08  
+2025.07 - 2025.08  
 Research Assistant  
-Advisor: [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/)
+Advisor: [Prof. Bangti Jin](https://www.math.cuhk.edu.hk/~btjin/)
 
   </div>
 </div>
