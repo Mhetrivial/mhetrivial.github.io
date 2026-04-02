@@ -98,7 +98,7 @@ Advisor: [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/)
 
 2024.06 - 2024.08  
 Research Assistant  
-Advisor: [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
+Advisor: [Prof. Hehu Xie](https://lsec.cc.ac.cn/~hhxie/)
 
   </div>
 </div>
@@ -113,7 +113,7 @@ Advisor: [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
 
 2024.07 - 2024.09
 Research Assistant  
-Advisor: [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
+Advisor: [Prof. Hehu Xie](https://lsec.cc.ac.cn/~hhxie/)
 
   </div>
 </div>
