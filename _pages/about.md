@@ -112,7 +112,6 @@ Advisor: [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
 ### Chinese Academy of Sciences
 
 2024.07 - 2024.09
-
 Research Assistant  
 Advisor: [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
 
