@@ -152,11 +152,9 @@ _Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
 
 # 🌈 Miscellaneous
 
-Apart from academic studies and research, I have a wide range of interests, including piano and singing.
+Apart from the world of equations and code, I have a few personal hobbies that help me recharge and find inspiration:
 
-- I enjoy playing the piano🎹 and have passed <a href="https://www.abrsm.org/">ABRSM</a> Practical Grade 8 and <a href="https://kjzx.ccmusic.edu.cn/">CCM</a> Amateur Grade 10, both the highest levels. I've also won awards in several piano competitions.
-- I am passionate about singing🎤 and have passed <a href="https://kjzx.ccmusic.edu.cn/">CCM</a> Amateur Grade 9 (highest level).
-- I used to serve as the conductor of the choir in junior high school.
-- I also have some experience in public speaking🗣️ and won Gold Award🥇 in the National College Students' Career Planning Contest (Shanghai Region).
-- Regarding sports, I'm an amateur enthusiast of jogging🏃 and skiing⛷️.
-- I have participated in various algorithm competitions🖥️ and earned Gold Medals🥇 in ICPC/CCPC and a Silver Medal🥈 in NOI.
+- ⚽ **Football:** I am a big fan of football. I really enjoy the energy and the strategic aspects of the sport.
+- ☕ **Coffee Enthusiast:** I love exploring different types of coffee. A good cup of coffee is practically the essential fuel for my daily research and learning!
+- 🎮 **Gaming:** Occasionally, you can find me firing up Steam. I am currently quite into *Slay the Spire 2*—the deck-building strategy is a fantastic way to unwind my brain.
+- 🚶‍♂️ **City Wandering:** I enjoy taking random strolls (Citywalk) around the streets with no specific destination. It's my favorite way to clear my head and often where my best ideas pop up.
