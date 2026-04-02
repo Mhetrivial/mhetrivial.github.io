@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a 4th-year undergraduate at Zhiyuan College (Honor, Top 10%), Shanghai Jiao Tong University.
+Hi! I am a 4th-year undergraduate at Zhiyuan College (Honor, Top 10%), Shanghai Jiao Tong University. I will be joining the National University of Singapore (NUS) as a graduate student.
 
-Most recently, I was mentored by <a href="https://cs.uic.edu/profiles/philip-yu/">Prof. Philip S. Yu</a> at the University of Illinois Chicago.
-Before that, I was a research intern at the National University of Singapore under the supervision of <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a>.
-Prior to that, I was mentored by <a href="https://shuaili8.github.io/">Prof. Shuai Li</a> and <a href="https://scholar.google.com/citations?user=6-ARmXsAAAAJ">Dr. Tong Yu</a> at SJTU.
-I've also had the privilege of collaborating with <a href="https://bcmi.sjtu.edu.cn/~blu/">Prof. Bao-Liang Lu</a> and <a href="https://weilongzheng.github.io/">Prof. Wei-Long Zheng</a>.
+Most recently, I have been conducting research on Scientific Machine Learning and Operator Learning under the supervision of <a href="https://www.math.purdue.edu/~lin491/">Prof. Guang Lin</a> at Purdue University. 
+Before that, I was advised by <a href="https://yucaoyc.github.io/">Prof. Yu Cao</a> during my undergraduate studies at SJTU. I also had the privilege of conducting research under the guidance of Prof. Hehu Xie at the Chinese Academy of Sciences (CAS).
 
-My work has been published at venues such as KDD, EMNLP (main), NeurIPS, and ICLR (Oral), and I was invited as a reviewer for conferences including ICLR 2026. Beyond research, I've excelled in competitive programming, winning awards in OI, ICPC, CCPC, and other contests under the guidance of <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>.
+
 
 My research interests include LLMs, agentic systems, privacy and safety, and efficient ML. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
 
