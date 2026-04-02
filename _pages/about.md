@@ -35,8 +35,8 @@ My future research will primarily focus on Scientific Machine Learning (SciML) a
 </p>
 
 # 🔥 News
-- *2026.04*: &nbsp; 🎉 I am incredibly excited to announce that I have received the Ph.D. admission offer from the **National University of Singapore (NUS)**! 
-- *2026.04*: &nbsp; 🎉 Our paper _Dynamically Optimal Unraveling Schemes for Simulating Lindblad Equations_ has been provisionally accepted to the **Journal of Physics A (J. Phys. A)**!
+- *2026.03*: &nbsp; 🎉 I am incredibly excited to announce that I have received the Ph.D. admission offer from the **National University of Singapore (NUS)**! 
+- *2026.03*: &nbsp; 🎉 Our paper _Dynamically Optimal Unraveling Schemes for Simulating Lindblad Equations_ has been provisionally accepted to the **Journal of Physics A (J. Phys. A)**!
 
 # 📝 Selected Publications 
 _<sup>*</sup> denotes equal contribution_
