@@ -96,9 +96,8 @@ Advisor: [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/)
 
 ### KTH Royal Institute of Technology
 
-2024.06 - 2024.08  
-Research Assistant  
-Advisor: [Prof. Hehu Xie](https://lsec.cc.ac.cn/~hhxie/)
+2025.01 - 2025.06
+Exchange Student
 
   </div>
 </div>
