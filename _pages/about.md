@@ -20,8 +20,7 @@ redirect_from:
 Hi! I am a 4th-year undergraduate at Zhiyuan College (Honor, Top 10%), Shanghai Jiao Tong University. I will be joining the National University of Singapore (NUS) as a graduate student.
 
 Most recently, I have been conducting research on Scientific Machine Learning and Operator Learning under the supervision of <a href="https://www.math.purdue.edu/~lin491/">Prof. Guang Lin</a> at Purdue University. 
-Before that, I was advised by <a href="https://yucaoyc.github.io/">Prof. Yu Cao</a> during my undergraduate studies at SJTU. I also had the privilege of conducting research under the guidance of Prof. Hehu Xie at the Chinese Academy of Sciences (CAS).
-
+Before that, I was advised by <a href="https://yucaoyc.github.io/">Prof. Yu Cao</a> during my undergraduate studies at SJTU. I also had the privilege of conducting research under the guidance of <a href="https://lsec.cc.ac.cn/~hhxie/">Prof. Hehu Xie</a> at the Chinese Academy of Sciences (CAS).
 
 
 My research interests include LLMs, agentic systems, privacy and safety, and efficient ML. I'm always eager to engage in discussions about these topics, so please feel free to reach out if you'd like to chat!
