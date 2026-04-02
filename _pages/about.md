@@ -75,7 +75,7 @@ My future research will primarily focus on Scientific Machine Learning (SciML) a
 
 <div class="experience-box">
   <div class="experience-image">
-    <img src="images/uic_logo.png" alt="UIC logo">
+    <img src="images/cuhk_logo.jpg" alt="cuhk logo">
   </div>
   <div class="experience-text" markdown="1">
 
