@@ -39,8 +39,6 @@ My future research will primarily focus on Scientific Machine Learning (SciML) a
 # 📝 Selected Publications 
 _<sup>*</sup> denotes equal contribution_
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/swift.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **Mining Intrinsic Rewards from LLM Hidden States for Efficient Best-of-N Sampling**
 
