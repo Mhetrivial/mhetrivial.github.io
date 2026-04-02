@@ -113,8 +113,6 @@ Advisor: [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)
 
 2024.07 - 2024.09
 Summer Research Intern
-* Advised by Prof. Hehu Xie.
-* **Publication:** Yangfei Liao, Zhongshuo Lin, Jianghao Liu, Qingyuan Sun, Yifan Wang, Teng Wu, Hehu Xie, **Mingfeng He**. _Solving Schrodinger Equation Using Tensor Neural Network_. [[arXiv:2209.12572](https://arxiv.org/abs/2209.12572)]
 
   </div>
 </div>
