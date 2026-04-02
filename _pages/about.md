@@ -138,25 +138,11 @@ Research Advisors: [Prof. Yu Cao](https://yucaoyc.github.io/zh/)
 _Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
 
 - *2025.12* Zhiyuan Honors Scholarship.
-- *2025.12* Academic Excellence Scholarship, SJTU (Top 10%, ranked 2nd overall).
 - *2025.10* Zhiyuan Overseas Research Scholarship.
-- *2025.09* Merit Student of SJTU.
-- *2025.01* <strong> Gold Award🥇 </strong> and <strong> First Runner-up </strong> in the National College Students' Career Planning Contest (Shanghai Region).
 - *2024.12* Zhiyuan Honors Scholarship.
-- *2024.11* Zhiyuan <strong>First-Class</strong> Overseas Research Scholarship.
-- *2024.09* Merit Student of SJTU.
-- *2023.12* Academic Excellence Scholarship, SJTU (Top 10%, ranked 2nd overall).
+- *2024.11* Zhiyuan Overseas Research Scholarship.
 - *2023.12* Zhiyuan Honors Scholarship.
-- *2023.12* Third Prize in Mathematics competition of Chinese College Students (Shanghai).
-- *2023.09* <strong> First Prize </strong> in Shanghai Collegiate Programming Contest (Ranked 2nd in Shanghai).
-- *2023.08* <strong> Gold Award🥇 </strong> in Astar Programming Contest (Shanghai Region) (Ranked 2nd in Shanghai).
-- *2023.05* <strong> Gold Medal🥇 </strong> in 2023 China Collegiate Programming Contest (<strong>CCPC</strong>) National Invitational Contest (Hunan).  
-- *2023.05* <strong> Gold Medal🥇 </strong> in 2023 International Collegiate Programming Contest (<strong>ICPC</strong>) Xi'an Invitational Contest.
 - *2022.12* Zhiyuan Honors Scholarship.
-- *2022.12* <strong> Gold Medal🥇 </strong> in 2022 International Collegiate Programming Contest (<strong>ICPC</strong>) Asia Hangzhou Regional Contest (Ranked 8th nationwide).
-- *2022.09* <strong> Gold Medal🥇 </strong> in 2022 China Collegiate Programming Contest (<strong>CCPC</strong>) (Shanghai region).
-- *2021.07* <strong> Silver Medal🥈 </strong> in National Olympiad in Informatics (<strong>NOI</strong>).
-- *2021.03* <strong> Ranked 22nd nationwide </strong> in National Olympiad in Informatics (<strong>NOI</strong>) Online Senior Group.
 
 # 🌈 Miscellaneous
 
