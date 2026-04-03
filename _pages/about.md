@@ -29,7 +29,7 @@ My future research will primarily focus on Scientific Machine Learning (SciML) a
 <a href="images/wechat.jpg">WeChat</a> /
 <a href="images/qq.jpg">QQ</a> /
 <a href="images/rednote.jpg">Xiaohongshu (RedNote)</a> /
-<a href="assets/pdf/CV.pdf">CV</a> 
+<a href="assets/pdf/newCV.pdf">CV</a> 
 </p>
 
 # 🔥 News
