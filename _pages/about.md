@@ -140,7 +140,7 @@ Research Advisors: [Prof. Yu Cao](https://yucaoyc.github.io/zh/)
 </div>
 
 # 🎖 Selected Honors and Awards
-_Click <a href="assets/pdf/certificates.pdf">here</a> to view all certificates_
+
 
 - *2025.12* Zhiyuan Honors Scholarship.
 - *2025.10* Zhiyuan Overseas Research Scholarship.
